@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8183
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Stringer_%28writer%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42184#The-Silver-Poppy
 gutenberg_issued: '2013-02-24'
 gutenberg_type: Text
 identifiers:
